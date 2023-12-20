@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: appstudio
   name: dc-metro-map-1re4
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
